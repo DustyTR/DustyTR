@@ -1,1 +1,4 @@
-- 👋 Hi, I’m %^+%!'+^%'+'+%
+- This Web Site about ETA(Erdal Tunay Aytuğ) 
+- Do not copy all of them pls .d
+- You can use "app.js" and also css files
+- Enjoy it :)
